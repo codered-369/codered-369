@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/codered-369">
-    <img src="https://img.shields.io/github/followers/codered-369?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/codered-369?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
 
@@ -51,14 +51,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Added include_all_commits=true to show Total Commits! -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/codered-369">
+    <img src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/codered-369">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codered-369&theme=tokyonight" />
+  <a href="https://github.com/codered-369">
+    <img src="https://streak-stats.demolab.com?user=codered-369&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -88,7 +92,9 @@ A modern business website for a boating service featuring rich UI components and
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codered-369&theme=tokyonight&row=1&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codered-369&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---

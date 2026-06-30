@@ -99,9 +99,10 @@ A modern business website for a boating service featuring rich UI components and
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codered-369&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=codered-369&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 

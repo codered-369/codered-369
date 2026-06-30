@@ -50,12 +50,13 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <a href="https://github.com/codered-369">
-    <img src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/codered-369">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
@@ -64,6 +65,7 @@
     <img src="https://streak-stats.demolab.com?user=codered-369&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
+
 
 ---
 

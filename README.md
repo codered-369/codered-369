@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwanath Gouda</h1>
-<h3 align="center">Software Engineer | SAP UI5 Developer | Frontend Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Gen AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codered-369&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,38 +15,44 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer
-- 🌱 Currently learning SAP AI, Joule Integration & Advanced SAP UI5
-- ⚡ Passionate about Frontend Development, React, TypeScript & SAP Technologies
-- 🔭 Building modern web applications and business solutions
-- 🎯 Goal: Become a Full-Stack SAP Solution Architect
+- 💻 Software Engineer & Problem Solver
+- 🌱 Currently learning & building with **SAP AI, Joule Integration, Gen AI & Advanced SAP UI5**
+- ⚡ Passionate about modern web architectures, Next.js, and serverless technologies
+- 🔭 Building intelligent web applications, AI pipelines, and enterprise business solutions
+- 🌐 Check out my full portfolio: **[vishwadev.vercel.app](https://vishwadev.vercel.app/)**
+- 🎯 Goal: Become a Full-Stack Solutions Architect
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+### Frontend & Core
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-### Tools
+### Backend & Gen AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+### Tools & Hosting
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&theme=tokyonight" />
+  <!-- Added include_all_commits=true to show Total Commits! -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&include_all_commits=true&theme=tokyonight" />
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight" />
 </p>
@@ -59,20 +65,23 @@
 
 ## 🌟 Featured Projects
 
-### 🚤 NammaUK
-Tourism and travel-focused web platform showcasing Uttara Kannada.
+### 🤖 [TSS-PricePredictor](https://github.com/codered-369/TSS-PricePredictor)
+A cloud-native web application for Arecanut farmers to track daily APMC market rates, featuring an automated Twilio WhatsApp pipeline and a machine learning 7-day price prediction model.
 
-### 💼 Portfolio
-Personal portfolio built using modern web technologies.
+### 📚 [pdfizer-rag-pipeline](https://github.com/codered-369/pdfizer-rag-pipeline)
+An intelligent Retrieval-Augmented Generation (RAG) web application built in Python and Streamlit that allows users to seamlessly chat with their PDF documents using AI embeddings.
 
-### 📝 Paste App
-React + Vite + TailwindCSS application for managing notes and text snippets.
+### ⚖️ [FF (TruthBoard / Expose)](https://github.com/codered-369/FF)
+A powerful Next.js and Redis-backed community platform built for digital accountability. Features dynamic profiles, secure blob storage, and a centralized social timeline.
 
-### 📄 PDF Watermark
-Utility application for watermarking PDF documents.
+### 💼 [Portfolio](https://github.com/codered-369/Portfolio)
+My personal developer portfolio built with Next.js, featuring dark mode, advanced animations, and SEO optimization.
 
-### ✅ Task Management
-Task and productivity management web application.
+### 🏖️ [NammaUK](https://github.com/codered-369/NammaUK)
+A comprehensive and responsive tourism platform showcasing the beauty, beaches, and heritage of the Uttara Kannada district.
+
+### 🚤 [Sharavatiboating-honnavar-](https://github.com/codered-369/Sharavatiboating-honnavar-)
+A modern business website for a boating service featuring rich UI components and multi-language support.
 
 ---
 
@@ -89,6 +98,9 @@ Task and productivity management web application.
 <p align="left">
 <a href="https://github.com/codered-369">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://vishwadev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 

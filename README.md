@@ -51,19 +51,18 @@
 ## 📊 GitHub Stats
 
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/codered-369">
-    <img src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/codered-369">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/codered-369">
-    <img src="https://streak-stats.demolab.com?user=codered-369&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codered-369&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight" />
 </p>
 
 

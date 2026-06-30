@@ -50,20 +50,25 @@
 
 ## 📊 GitHub Stats
 
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codered-369&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <a href="https://github.com/codered-369">
+    <!-- Using a more stable Alternative Server! -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codered-369&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codered-369&theme=tokyonight" />
+  <a href="https://github.com/codered-369">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codered-369&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codered-369&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/codered-369">
+    <img src="https://streak-stats.demolab.com?user=codered-369&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 ---

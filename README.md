@@ -20,7 +20,6 @@
 - ⚡ Passionate about modern web architectures, Next.js, and serverless technologies
 - 🔭 Building intelligent web applications, AI pipelines, and enterprise business solutions
 - 🌐 Check out my full portfolio: **[vishwadev.vercel.app](https://vishwadev.vercel.app/)**
-- 🎯 Goal: Become a Full-Stack Solutions Architect
 
 ---
 
@@ -42,11 +41,10 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### AI & LLM Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity_AI-6A0DAD?style=for-the-badge)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-000000?style=for-the-badge)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-5A67D8?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes_LLM-FF6F00?style=for-the-badge)

@@ -51,7 +51,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes_LLM-FF6F00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=black)
 
 
 ### Tools & Hosting

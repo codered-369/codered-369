@@ -39,6 +39,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF-the-badge&logo=supabase&logoColor=white)
 
 ### AI & LLM Engineering
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
@@ -49,8 +51,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes_LLM-FF6F00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor)
 
 
 ### Tools & Hosting

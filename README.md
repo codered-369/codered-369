@@ -50,6 +50,8 @@
 ![Hermes](https://img.shields.io/badge/Hermes_LLM-FF6F00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ### Tools & Hosting
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)

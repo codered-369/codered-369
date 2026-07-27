@@ -123,7 +123,7 @@ A modern business website for a boating service featuring rich UI components and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 <a href="https://vishwadev.vercel.app/">
-<img src="https://raw.githubusercontent.com/codered-369/Portfolio/main/app/icon.png?style=for-the-badge&logo=Portfolio" alt="Portfolio" style="height: 20px;">Portfolio
+  <img src="https://raw.githubusercontent.com/codered-369/Portfolio/main/app/icon.png" alt="Portfolio" style="height: 45px; margin-left: 10px;">
 </a>
 </p>
 

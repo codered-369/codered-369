@@ -101,17 +101,21 @@ A cloud-native web application for Arecanut farmers to track daily APMC market r
 ### 📚 [pdfizer-rag-pipeline](https://github.com/codered-369/pdfizer-rag-pipeline)
 An intelligent Retrieval-Augmented Generation (RAG) web application built in Python and Streamlit that allows users to seamlessly chat with their PDF documents using AI embeddings.
 
+### 🚤 [Sharavatiboating-honnavar-](https://github.com/codered-369/Sharavatiboating-honnavar-)
+A modern business website for a boating service featuring rich UI components and multi-language support.
+
+### 🏖️ [NammaUK](https://github.com/codered-369/NammaUK)
+A comprehensive and responsive tourism platform showcasing the beauty, beaches, and heritage of the Uttara Kannada district.
+
 ### ⚖️ [FF (TruthBoard / Expose)](https://github.com/codered-369/FF)
 A powerful Next.js and Redis-backed community platform built for digital accountability. Features dynamic profiles, secure blob storage, and a centralized social timeline.
 
 ### 💼 [Portfolio](https://github.com/codered-369/Portfolio)
 My personal developer portfolio built with Next.js, featuring dark mode, advanced animations, and SEO optimization.
 
-### 🏖️ [NammaUK](https://github.com/codered-369/NammaUK)
-A comprehensive and responsive tourism platform showcasing the beauty, beaches, and heritage of the Uttara Kannada district.
 
-### 🚤 [Sharavatiboating-honnavar-](https://github.com/codered-369/Sharavatiboating-honnavar-)
-A modern business website for a boating service featuring rich UI components and multi-language support.
+
+
 
 ---
 
